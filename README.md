@@ -52,7 +52,7 @@ To use this method, follow these steps:
 - OpenCV
 - imutils
 - scikit-image
-- 
+
 ## How to Run the Project
 
 ### 1. Clone the Repository
