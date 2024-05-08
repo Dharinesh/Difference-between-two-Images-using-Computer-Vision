@@ -43,9 +43,25 @@ To use this method, follow these steps:
 3. Provide the file paths of the input images.
 4. The script will output the difference image, the similarity score, and a concatenated image showing input images and differences.
 
+## Sample outputs generated:
+
+### [Original Image|Altered Image|Code Output]
+
+1. Output 1
+<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/34bd3e70-8332-49d8-95bf-97d74911e428" width="800" height="400">
+
+2. Output 2
+<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/1e90ce01-6562-48ce-b3df-a1e1f9b6cb85" width="800" height="400">
+
+3. Output 3
+<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/53e3ee0a-444e-4072-8997-6da4385adad7" width="800" height="400">
+
+4. Output 4
+<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/8bd5bcc0-15fa-4cf8-b0cc-9f801d91b087" width="800" height="400">
+
 ## Repository Structure
 
-<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/5fe31983-3683-4d70-9742-bd764e5e061c" alt="Repository Structure" width="400">
+<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/5fe31983-3683-4d70-9742-bd764e5e061c" alt="Repository Structure" width="400" >
 
 ## Requirements
 - Python 3.x
