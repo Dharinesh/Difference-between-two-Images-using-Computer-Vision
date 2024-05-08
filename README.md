@@ -44,14 +44,13 @@ To use this method, follow these steps:
 4. The script will output the difference image, the similarity score, and a concatenated image showing input images and differences.
 
 ## Sample outputs generated:
-### <Original Image> -- <Altered Image> -- <Code Output>
-
+### [Original Image|Altered Image|Code Output]
 1. Output 1
-<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/34bd3e70-8332-49d8-95bf-97d74911e428" width="800">
+<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/34bd3e70-8332-49d8-95bf-97d74911e428" width="800" height="400">
 
 ## Repository Structure
 
-<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/5fe31983-3683-4d70-9742-bd764e5e061c" alt="Repository Structure" width="400">
+<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/5fe31983-3683-4d70-9742-bd764e5e061c" alt="Repository Structure" width="400" >
 
 ## Requirements
 - Python 3.x
