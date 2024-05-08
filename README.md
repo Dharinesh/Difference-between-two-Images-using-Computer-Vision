@@ -45,17 +45,53 @@ To use this method, follow these steps:
 
 ## Repository Structure
 
-![image](https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/5fe31983-3683-4d70-9742-bd764e5e061c)
-
+<img src="https://github.com/Dharinesh/Difference-between-two-Images-using-Computer-Vision/assets/108059896/5fe31983-3683-4d70-9742-bd764e5e061c" alt="Repository Structure" width="400">
 
 ## Requirements
 - Python 3.x
 - OpenCV
 - imutils
 - scikit-image
+- 
+## How to Run the Project
 
+### 1. Clone the Repository
+
+- Clone or download the repository from GitHub to your local machine.
+
+### 2. Install Dependencies
+
+- Ensure you have Python 3.x installed on your system.
+- Open a terminal window and navigate to the project directory.
+
+```bash
+cd /path/to/Difference-between-two-Images-using-Computer-Vision
+```
+
+### Install the required packages using the following command:
+```bash
+pip install -r requirements.txt
+```
+### Choose a Method:
+- Decide which method you want to use for finding the difference between two images: Method 1 or Method 2.
+
+### Prepare Input Images:
+- Place your input images in the 'input/' directory inside the project folder.
+- set the path of the original image to imageA variable and altered image path to the imageB variable in both the methods.
+- you can customize the output image's name and location in the code.
+
+### Run the script
+
+### View the results:
+- The results can be viewed in the output folder.
+- for better viewing the difference there is a code snipper to concatenate the images to see the original, altered and the found difference image side by side.
+
+### Explore further:
+- You can explore the code to understand the implementation details of each method.
+- Customize the code or integrate it into your own projects as needed.
+  
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - The code in this repository is inspired by various tutorials, documentation, and community discussions on computer vision techniques.
